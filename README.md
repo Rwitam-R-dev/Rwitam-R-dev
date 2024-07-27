@@ -1,4 +1,4 @@
-
+![logo](./banner.png)
 # 💫 About Me:
 Hey there, I'm Rwitam Ray, a free mind wannabe on a journey to solve problems for a cause and to craft exiciting applications with some exceptional user interfaces.
 
