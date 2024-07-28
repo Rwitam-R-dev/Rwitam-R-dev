@@ -54,14 +54,20 @@ Most of my repositories are private. 🔒
 
 # 📈 GitHub Stats
 
-<p><img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs?username=Rwitam-R-dev&show_icons=true&locale=en&layout=compact" alt="Rwitam-R-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rwitam-R-dev&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Rwitam-R-dev" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rwitam-R-dev&" alt="Rwitam-R-dev" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rwitam-R-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=ffffff&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&dates=ffffff" alt="Rwitam-R-dev" />
+</p>
 
 
 
----
+
+
+
+
+
 
 
 
