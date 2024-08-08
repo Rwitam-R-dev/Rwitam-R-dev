@@ -6,7 +6,7 @@ Hey there, I'm Rwitam Ray, a free mind wannabe on a journey to solve problems fo
 - 👀 I’m interested in Cyber , Robotics & Lots of Real World Problems
 - 🌱 I’m currently learning Blockchain & Flutter
 - 📫 How to reach me: Dm me on my socials down below
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/him.
 - ⚡ Fun fact: Being a mad wannabe i am great chirping house with amazing listening abilities (🤫)
 
 
